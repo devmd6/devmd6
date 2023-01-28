@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with velocityx doucmentation
 - 💬 Ask me about flutter or any tech related stuff.
 - 📫 How to reach me: mdevamittran@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I get obsessed over unsolvable problems
 
