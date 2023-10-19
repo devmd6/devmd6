@@ -1,11 +1,6 @@
 ### Hola, I'm Devamittran M 👋
 
-- 🔭 I’m currently working on spresense_sd module
-- 🌱 I’m currently learning dsa for signal processing 
-- 👯 I’m looking to collaborate on Gmail
-- 🤔 I’m looking for help with velocityx doucmentation
-- 💬 Ask me about flutter or any tech related stuff.
-- 📫 How to reach me: mdevamittran@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I get obsessed over unsolvable problems
+- 🔭 I’m currently working on Creating a Serverless Image Handler with AWS/GCP Services 
+- 🌱 I’m currently learning GCP Fundamentals : Data, ML and AI in Google
+- 📫 Socials : mdevamittran@gmail.com / https://www.linkedin.com/in/devamittran-m-2723a3269/
 
